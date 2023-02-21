@@ -1,13 +1,13 @@
 
 
 {
-	"spider": "https://agit.ai/945KM/TVBox/raw/branch/master/jar/20230221.jar;md5;1F8C53594F7B6988ACE8D9DB6EAB8584",
+	"spider": "https://raw.githubusercontent.com/945KM/TVBox/main/jar/20230221.jar;md5;26780AC4D9455A1EE09C65CEB9DE8A07",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
 		    "channels": [{
 			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzk0NUtNL3poaWJvL21haW4vbGl2ZS50eHQ="]
+			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzk0NUtNL1RWQm94L21haW4vVFYvbGl2ZS50eHQ="]
 		    }]
 	    }],
 	"sites":[
