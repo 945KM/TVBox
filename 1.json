@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://raw.githubusercontent.com/945KM/TVBox/main/jar/20230221.jar;md5;26780AC4D9455A1EE09C65CEB9DE8A07",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/jar/20230221.jar;md5;39D5C798B67B1CCBB9125C8923BE416C",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
