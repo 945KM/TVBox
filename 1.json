@@ -4,12 +4,13 @@
 	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/jar/20230221.jar;md5;39D5C798B67B1CCBB9125C8923BE416C",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
-		    "group": "redirect",
-		    "channels": [{
-			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vOTQ1S00vVFZCb3gvbWFpbi9UVi9saXZlLnR4dA=="]
-		    }]
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/TV/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
+	   
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
