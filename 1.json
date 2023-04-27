@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/jar/20230311.jar;md5;CDD259F27988908FCC993A19EE0B7EF2",
+	"spider": "https://cdn.jsdelivr.net/gh/945KM/TVBox@main/jar/20230427.jar;md5;EC4FC12610385303FA8027DD846EFCA0",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
